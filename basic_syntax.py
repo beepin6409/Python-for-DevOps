@@ -1,5 +1,6 @@
 print("Hello World")
-
+   
+print(a "/n" )
 print(1)
 
 a=2
